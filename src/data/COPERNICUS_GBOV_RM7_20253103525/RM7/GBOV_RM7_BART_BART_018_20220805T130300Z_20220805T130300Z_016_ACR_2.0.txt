@@ -1,0 +1,27 @@
+GBOV_Product=RM7
+Raw_Data_Investigators=Courtney Meier_cmeier@battelleecology.org
+Raw_Data_Affiliations=Battelle
+Raw_Data_Contact=cmeier@battelleecology.org
+GBOV_EMAIL=support-copernicus-gbov@acri-st.fr
+Site_Name=Bartlett Experimental Forest
+Station_Name=BART_018
+Site_Description=The Bartlett Experimental Forest is an actively managed forest south of the town of Bartlett, New Hampshire (US). Its managed portions (30%) reflect a range of forest patch sizes and structural distributions. Approximately 70% of the land area has remained uncut since the early 1900s. The primary forest cover type is the sugar maple-beech-yellow birch type. The upper elevations support stands of spruce and fir.
+NetWork_Membership=NEON
+Online_Resources=https://www.neonscience.org/field-sites/field-sites-map/BART
+Data_Type=Mixed Forest, RM7
+GBOV_Processing_Version=2.0
+Start_Date=2022-08-05
+End_Date=2022-08-05
+Start_Time=13:03:00[UTC]
+End_Time=13:03:00[UTC]
+Northern_Latitude=44.063901
+Southern_Latitude=44.063901
+Eastern_Longitude=-71.287308
+Western_Longitude=-71.287308
+IGBP_Class=5, Mixed Forest
+Land_Cover_Class=90
+Biome=4
+Eco_Region=New England-Acadian forests
+No_Data_Value=-999.0
+Delimiter=;
+

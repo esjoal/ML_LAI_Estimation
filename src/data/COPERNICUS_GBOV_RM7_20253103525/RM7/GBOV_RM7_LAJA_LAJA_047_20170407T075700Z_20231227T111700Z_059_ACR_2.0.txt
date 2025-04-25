@@ -1,0 +1,29 @@
+GBOV_Product=RM7
+Raw_Data_Investigators=Courtney Meier_cmeier@battelleecology.org
+Raw_Data_Affiliations=Battelle
+Raw_Data_Contact=cmeier@battelleecology.org
+GBOV_EMAIL=support-copernicus-gbov@acri-st.fr
+Site_Name=Lajas Experimental Station
+Station_Name=LAJA_047
+Site_Description=The Lajas Experimental Station is located at the Lajas Research and Development Center, one of six Agricultural Experiment Stations in Puerto Rico. The majority of the land is ​owned by the University of Puerto Rico Mayaguez Campus. The NEON field site also incorporates some farmland owned by a private farmer, which makes up 25% of the total site area.
+
+Located in the southwestern corner of the island, where it is relatively arid, this field site provides an excellent contrast to the pristine forest conditions at the Guánica field site. The station was established as a research and development center in 1946 to study agricultural practices and establish best practices for the area. The land has primarily been used for dairy cattle grazing and growing feed for the cattle industry, including hay and sorghum. Parts of the site are dedicated to grow other crops, including mangoes, corn, sorghum and squash. It is highly managed, with agricultural activities taking place year round. Much of the soil has been heavily compacted by cattle movements and enriched by the application of manure and other fertilizers. Data gathered at LAJA will help researchers evaluate the impact of agriculture and human activity on the local ecosystem and monitor these impacts over time.
+NetWork_Membership=NEON
+Online_Resources=http://www.neonscience.org/field-sites/field-sites-map/LAJA
+Data_Type=Grasslands, RM7
+GBOV_Processing_Version=2.0
+Start_Date=2017-04-07
+End_Date=2023-12-27
+Start_Time=07:57:00[UTC]
+End_Time=11:17:00[UTC]
+Northern_Latitude=18.02125
+Southern_Latitude=18.02125
+Eastern_Longitude=-67.0769
+Western_Longitude=-67.0769
+IGBP_Class=10, Grasslands
+Land_Cover_Class=130
+Biome=2
+Eco_Region=Ozarks Complex
+No_Data_Value=-999.0
+Delimiter=;
+

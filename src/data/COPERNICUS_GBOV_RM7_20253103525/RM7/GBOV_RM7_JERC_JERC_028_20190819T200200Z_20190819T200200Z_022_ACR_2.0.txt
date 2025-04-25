@@ -1,0 +1,27 @@
+GBOV_Product=RM7
+Raw_Data_Investigators=Courtney Meier_cmeier@battelleecology.org
+Raw_Data_Affiliations=Battelle
+Raw_Data_Contact=cmeier@battelleecology.org
+GBOV_EMAIL=support-copernicus-gbov@acri-st.fr
+Site_Name=Jones Ecological Research Center
+Station_Name=JERC_028
+Site_Description=The site Joseph Jones Ecological Research Center (JERC) is located within the Lower Coastal Plains and Flatwoods areas in south-western Georgia, ca. 25 km east of Colquitt. The site has been managed with low intensity, dormant-season prescribed fires for the past 75 years at a frequency of every 3-4 years. The dominant vegetation cover is a mix of Longleaf Pine, Oaks and wiregrass.
+NetWork_Membership=NEON
+Online_Resources=https://www.neonscience.org/field-sites/field-sites-map/JERC
+Data_Type=Evergreen Needleleaf, RM7
+GBOV_Processing_Version=2.0
+Start_Date=2019-08-19
+End_Date=2019-08-19
+Start_Time=20:02:00[UTC]
+End_Time=20:02:00[UTC]
+Northern_Latitude=31.1948394775391
+Southern_Latitude=31.1948394775391
+Eastern_Longitude=-84.468777
+Western_Longitude=-84.468777
+IGBP_Class=1, Evergreen Needleleaf
+Land_Cover_Class=70
+Biome=5
+Eco_Region=Southeastern conifer forests
+No_Data_Value=-999.0
+Delimiter=;
+

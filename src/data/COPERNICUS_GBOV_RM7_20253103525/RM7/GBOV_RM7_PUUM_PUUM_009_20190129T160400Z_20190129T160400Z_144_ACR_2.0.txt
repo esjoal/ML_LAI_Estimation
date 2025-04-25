@@ -1,0 +1,27 @@
+GBOV_Product=RM7
+Raw_Data_Investigators=TBC_TBC
+Raw_Data_Affiliations=NULL
+Raw_Data_Contact=TBC
+GBOV_EMAIL=support-copernicus-gbov@acri-st.fr
+Site_Name=Pu u Maka ala Natural Area Reserve
+Station_Name=PUUM_009
+Site_Description=TBC
+NetWork_Membership=NEON
+Online_Resources=NULL
+Data_Type=Evergreen Broadleaf, RM7
+GBOV_Processing_Version=2.0
+Start_Date=2019-01-29
+End_Date=2019-01-29
+Start_Time=16:04:00[UTC]
+End_Time=16:04:00[UTC]
+Northern_Latitude=19.55309
+Southern_Latitude=19.55309
+Eastern_Longitude=-155.31731
+Western_Longitude=-155.31731
+IGBP_Class=2, Evergreen Broadleaf
+Land_Cover_Class=0
+Biome=0
+Eco_Region=
+No_Data_Value=-999.0
+Delimiter=;
+

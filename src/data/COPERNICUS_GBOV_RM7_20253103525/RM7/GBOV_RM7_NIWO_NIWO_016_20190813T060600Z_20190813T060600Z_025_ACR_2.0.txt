@@ -1,0 +1,27 @@
+GBOV_Product=RM7
+Raw_Data_Investigators=Katherine N. Suding_suding@colorado.edu
+Raw_Data_Affiliations=University of Colorado, Boulder
+Raw_Data_Contact=suding@colorado.edu
+GBOV_EMAIL=support-copernicus-gbov@acri-st.fr
+Site_Name=Niwot Ridge Mountain Research Station
+Station_Name=NIWO_016
+Site_Description=The site Niwot Ridge sits approximately 27 km west of Boulder, Colorado, and 6 km east of the Continental Divide. Topography, climate, and biota of the site are representative of Rocky Mountain alpine ecosystems, including extensive alpine tundra and subalpine coniferous forests, talus slopes, wetlands and a variety of glacial landforms. The site is well situated to observe other east/west flows across the Southern Rockies in conjunction with other NEON sites.
+NetWork_Membership=NEON
+Online_Resources=https://www.neonscience.org/field-sites/field-sites-map/NIWO
+Data_Type=Evergreen Needleleaf, RM7
+GBOV_Processing_Version=2.0
+Start_Date=2019-08-13
+End_Date=2019-08-13
+Start_Time=06:06:00[UTC]
+End_Time=06:06:00[UTC]
+Northern_Latitude=40.0543
+Southern_Latitude=40.0543
+Eastern_Longitude=-105.58245
+Western_Longitude=-105.58245
+IGBP_Class=1, Evergreen Needleleaf
+Land_Cover_Class=10
+Biome=5
+Eco_Region=Colorado Rockies forests
+No_Data_Value=-999.0
+Delimiter=;
+

@@ -1,0 +1,27 @@
+GBOV_Product=RM7
+Raw_Data_Investigators=Courtney Meier_cmeier@battelleecology.org
+Raw_Data_Affiliations=Battelle
+Raw_Data_Contact=cmeier@battelleecology.org
+GBOV_EMAIL=support-copernicus-gbov@acri-st.fr
+Site_Name=Woodworth
+Station_Name=WOOD_013
+Site_Description=The site Northern Plains-Woodworth is located at approx. 5 km SE of the town of Woodworth, North Dakota.  The site is part of the Chase Lake National Wildlife Refuge and is at the center of one of the largest roadless blocks of native prairie left in the Upper Great Plains. It has been restored to native vegetation, structure and function, and provides meaningful comparison to the other sites in the region that are managed with different degrees of grazing intensity.
+NetWork_Membership=NEON
+Online_Resources=https://www.neonscience.org/field-sites/field-sites-map/WOOD
+Data_Type=Grasslands, RM7
+GBOV_Processing_Version=2.0
+Start_Date=2021-06-15
+End_Date=2021-06-15
+Start_Time=15:02:00[UTC]
+End_Time=15:02:00[UTC]
+Northern_Latitude=47.128231048584
+Southern_Latitude=47.128231048584
+Eastern_Longitude=-99.2413635253906
+Western_Longitude=-99.2413635253906
+IGBP_Class=10, Grasslands
+Land_Cover_Class=130
+Biome=8
+Eco_Region=Northern short grasslands
+No_Data_Value=-999.0
+Delimiter=;
+

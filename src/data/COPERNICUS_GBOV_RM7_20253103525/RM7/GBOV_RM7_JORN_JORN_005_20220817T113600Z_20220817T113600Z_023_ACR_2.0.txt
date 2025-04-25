@@ -1,0 +1,27 @@
+GBOV_Product=RM7
+Raw_Data_Investigators=Courtney Meier_cmeier@battelleecology.org
+Raw_Data_Affiliations=Battelle
+Raw_Data_Contact=cmeier@battelleecology.org
+GBOV_EMAIL=support-copernicus-gbov@acri-st.fr
+Site_Name=Jornada
+Station_Name=JORN_005
+Site_Description=The site Jornada LTER is located in an arid region in southern New Mexico, ca. 25 km north of Las Cruces. Vegetation cover at Jornada is dominated by Desert Scrub and Grassland, which together represent ~ 90% of the domain. Land use at Jornada has contrasting livestock grazing histories (including ungrazed lands), dating back to 1902, which are representative of the pervasive land use in desert-southwest wildlands.
+NetWork_Membership=NEON
+Online_Resources=https://www.neonscience.org/field-sites/field-sites-map/JORN
+Data_Type=Open Shrublands, RM7
+GBOV_Processing_Version=2.0
+Start_Date=2022-08-17
+End_Date=2022-08-17
+Start_Time=11:36:00[UTC]
+End_Time=11:36:00[UTC]
+Northern_Latitude=32.5907
+Southern_Latitude=32.5907
+Eastern_Longitude=-106.84261
+Western_Longitude=-106.84261
+IGBP_Class=7, Open Shrublands
+Land_Cover_Class=120
+Biome=13
+Eco_Region=Chihuahuan desert
+No_Data_Value=-999.0
+Delimiter=;
+

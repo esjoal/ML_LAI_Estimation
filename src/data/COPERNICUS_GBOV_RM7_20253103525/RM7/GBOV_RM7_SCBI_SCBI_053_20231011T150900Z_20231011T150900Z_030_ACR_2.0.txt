@@ -1,0 +1,27 @@
+GBOV_Product=RM7
+Raw_Data_Investigators=Courtney Meier_cmeier@battelleecology.org
+Raw_Data_Affiliations=Battelle
+Raw_Data_Contact=cmeier@battelleecology.org
+GBOV_EMAIL=support-copernicus-gbov@acri-st.fr
+Site_Name=Smithsonian Conservation Biology Institute
+Station_Name=SCBI_053
+Site_Description=The site Smithsonian Conservation Biology Institute (SCBI) is located in a forested area ca. 30 km south of Winchester in northern Virginia. (SCBI) site consists of mature (> 100 year) and young (< 40 year) secondary forest that is dominated by oak, hickory, ash and tulip popular. The site provides a representative wildland that is within a mosaic of other land use types with expected increases in rates of urbanization.
+NetWork_Membership=NEON
+Online_Resources=https://www.neonscience.org/field-sites/field-sites-map/SCBI
+Data_Type=Mixed Forest, RM7
+GBOV_Processing_Version=2.0
+Start_Date=2023-10-11
+End_Date=2023-10-11
+Start_Time=15:09:00[UTC]
+End_Time=15:09:00[UTC]
+Northern_Latitude=38.8929214477539
+Southern_Latitude=38.8929214477539
+Eastern_Longitude=-78.1395034790039
+Western_Longitude=-78.1395034790039
+IGBP_Class=5, Mixed Forest
+Land_Cover_Class=60
+Biome=4
+Eco_Region=Appalachian-Blue Ridge forests
+No_Data_Value=-999.0
+Delimiter=;
+

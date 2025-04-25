@@ -1,0 +1,27 @@
+GBOV_Product=RM7
+Raw_Data_Investigators=Courtney Meier_cmeier@battelleecology.org
+Raw_Data_Affiliations=Battelle
+Raw_Data_Contact=cmeier@battelleecology.org
+GBOV_EMAIL=support-copernicus-gbov@acri-st.fr
+Site_Name=Onaqui Ault
+Station_Name=ONAQ_010
+Site_Description=The site Onaqui-Ault is located approx. 50 km SE of the rapidly developing Salt Lake City area, also near Provo and Logan, anchoring this arid urban-rural megatransect. Dominant vegetation at Onaqui-Ault is characterized by sagebrush and western juniper. In particular, the tower site is an area of extensive sagebrush steppe (Artemisia tridentata) transitioning into juniper woodland. The area has been grazed by domestic livestock since settlement.
+NetWork_Membership=NEON
+Online_Resources=https://www.neonscience.org/field-sites/field-sites-map/ONAQ
+Data_Type=Open Shrublands, RM7
+GBOV_Processing_Version=2.0
+Start_Date=2017-05-31
+End_Date=2021-05-10
+Start_Time=00:00:00[UTC]
+End_Time=21:53:00[UTC]
+Northern_Latitude=40.1775894165039
+Southern_Latitude=40.1775894165039
+Eastern_Longitude=-112.452438354492
+Western_Longitude=-112.452438354492
+IGBP_Class=7, Open Shrublands
+Land_Cover_Class=120
+Biome=13
+Eco_Region=Great Basin shrub steppe
+No_Data_Value=-999.0
+Delimiter=;
+

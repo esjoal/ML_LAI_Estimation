@@ -1,0 +1,27 @@
+GBOV_Product=RM7
+Raw_Data_Investigators=TBD_TBD
+Raw_Data_Affiliations=TBC
+Raw_Data_Contact=TBD
+GBOV_EMAIL=support-copernicus-gbov@acri-st.fr
+Site_Name=Konza Prairie Biological Station
+Station_Name=KONA_006
+Site_Description=Konza Prairie Agroecosystem (KONA) is a terrestrial NEON field site is located in the Flint Hills region of Kansas just 10 km (6 mi.) south of Manhattan, KS. Sampling occurs in a 3.6 km2 (903 acre) area of cultivated crop fields owned and managed by Kansas State University’s Department of Agronomy and Department of Animal Science and Industry. The site is focused on sampling within agricultural systems. The surrounding region consists of grasslands, forests, and agricultural land cover types and includes the largest remaining areas of unplowed tallgrass prairie in North America. KONA is part of the NEON Prairie Peninsula Domain (D06), which stretches from Kansas through Nebraska and Iowa to southern Minnesota, and moves east to encompass Illinois and most of Indiana.
+NetWork_Membership=NEON
+Online_Resources=https://www.neonscience.org/field-sites/kona
+Data_Type=Croplands, RM7
+GBOV_Processing_Version=2.0
+Start_Date=2019-07-31
+End_Date=2019-07-31
+Start_Time=10:35:00[UTC]
+End_Time=10:35:00[UTC]
+Northern_Latitude=39.110446
+Southern_Latitude=39.110446
+Eastern_Longitude=-96.612935
+Western_Longitude=-96.612935
+IGBP_Class=12, Croplands
+Land_Cover_Class=10
+Biome=8
+Eco_Region=
+No_Data_Value=-999.0
+Delimiter=;
+

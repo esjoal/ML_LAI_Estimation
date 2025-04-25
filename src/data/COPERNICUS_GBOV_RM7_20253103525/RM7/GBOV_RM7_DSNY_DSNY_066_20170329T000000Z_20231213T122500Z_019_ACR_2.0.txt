@@ -1,0 +1,27 @@
+GBOV_Product=RM7
+Raw_Data_Investigators=Courtney Meier_cmeier@battelleecology.org
+Raw_Data_Affiliations=Battelle
+Raw_Data_Contact=cmeier@battelleecology.org
+GBOV_EMAIL=support-copernicus-gbov@acri-st.fr
+Site_Name=Disney Wilderness Preserve
+Station_Name=DSNY_066
+Site_Description=The Disney Wilderness Preserve is located about 40 km south of Orlando, straddling the headwaters of the Everglades ecosystem in south-central Florida. This site is seasonally wet and flooded. It was heavily logged and used as ranchland for decades. However, vegetation and site conditions have been restored to closely represent site condition records. The predominant ecosystem type is restored wet prairie with regenerating longleaf pine.
+NetWork_Membership=NEON
+Online_Resources=https://www.neonscience.org/field-sites/field-sites-map/DSNY
+Data_Type=Open Shrublands, RM7
+GBOV_Processing_Version=2.0
+Start_Date=2017-03-29
+End_Date=2023-12-13
+Start_Time=00:00:00[UTC]
+End_Time=12:25:00[UTC]
+Northern_Latitude=28.1250400543213
+Southern_Latitude=28.1250400543213
+Eastern_Longitude=-81.43625
+Western_Longitude=-81.43625
+IGBP_Class=7, Open Shrublands
+Land_Cover_Class=130
+Biome=5
+Eco_Region=Southeastern conifer forests
+No_Data_Value=-999.0
+Delimiter=;
+

@@ -1,0 +1,27 @@
+GBOV_Product=RM7
+Raw_Data_Investigators=Courtney Meier_cmeier@battelleecology.org
+Raw_Data_Affiliations=Battelle
+Raw_Data_Contact=cmeier@battelleecology.org
+GBOV_EMAIL=support-copernicus-gbov@acri-st.fr
+Site_Name=Smithsonian Environmental Research Center
+Station_Name=SERC_019
+Site_Description==== Not available ===
+NetWork_Membership=NEON
+Online_Resources=https://www.neonscience.org/field-sites/field-sites-map/SERC
+Data_Type=Croplands, RM7
+GBOV_Processing_Version=2.0
+Start_Date=2021-08-24
+End_Date=2021-08-24
+Start_Time=05:35:00[UTC]
+End_Time=05:35:00[UTC]
+Northern_Latitude=38.89016
+Southern_Latitude=38.89016
+Eastern_Longitude=-76.5601
+Western_Longitude=-76.5601
+IGBP_Class=12, Croplands
+Land_Cover_Class=60
+Biome=4
+Eco_Region=Southeastern mixed forests
+No_Data_Value=-999.0
+Delimiter=;
+

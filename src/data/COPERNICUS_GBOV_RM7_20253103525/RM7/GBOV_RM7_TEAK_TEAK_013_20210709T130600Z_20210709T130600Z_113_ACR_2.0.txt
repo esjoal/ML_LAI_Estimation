@@ -1,0 +1,27 @@
+GBOV_Product=RM7
+Raw_Data_Investigators=_
+Raw_Data_Affiliations=
+Raw_Data_Contact=
+GBOV_EMAIL=support-copernicus-gbov@acri-st.fr
+Site_Name=Lower Teakettle
+Station_Name=TEAK_013
+Site_Description=null
+NetWork_Membership=NEON
+Online_Resources=https://www.google.com/
+Data_Type=Evergreen Needleleaf Forest, RM7
+GBOV_Processing_Version=2.0
+Start_Date=2021-07-09
+End_Date=2021-07-09
+Start_Time=13:06:00[UTC]
+End_Time=13:06:00[UTC]
+Northern_Latitude=37.00583
+Southern_Latitude=37.00583
+Eastern_Longitude=-119.00602
+Western_Longitude=-119.00602
+IGBP_Class=1, Evergreen Needleleaf Forest
+Land_Cover_Class=0
+Biome=0
+Eco_Region=
+No_Data_Value=-999.0
+Delimiter=;
+

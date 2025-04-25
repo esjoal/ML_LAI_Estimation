@@ -1,0 +1,27 @@
+GBOV_Product=RM7
+Raw_Data_Investigators=Courtney Meier_cmeier@battelleecology.org
+Raw_Data_Affiliations=Battelle
+Raw_Data_Contact=cmeier@battelleecology.org
+GBOV_EMAIL=support-copernicus-gbov@acri-st.fr
+Site_Name=Central Plains Experimental Range
+Station_Name=CPER_012
+Site_Description=The Central Plains Experimental Range (CPER) is located at the western edge of the Pawnee National Grasslands in Colorado, 19 kilometers northeast of Nunn, Colorado. The elevation ranges between 1,500-1,700 meters. CPER includes 6300 hectares of undulating rangeland. It is influenced by contemporary land-use practices, such as agriculture and cattle grazing. This site serves as a benchmark for exploring the causes and consequences of environmental change taking place throughout the grasslands of the Central Plains Domain, with results relevant to arid and semi-arid grassland ecosystems worldwide.
+NetWork_Membership=NEON
+Online_Resources=https://www.neonscience.org/field-sites/field-sites-map/CPER
+Data_Type=Grasslands, RM7
+GBOV_Processing_Version=2.0
+Start_Date=2017-05-24
+End_Date=2021-06-21
+Start_Time=00:00:00[UTC]
+End_Time=13:58:00[UTC]
+Northern_Latitude=40.81555
+Southern_Latitude=40.81555
+Eastern_Longitude=-104.74566
+Western_Longitude=-104.74566
+IGBP_Class=10, Grasslands
+Land_Cover_Class=130
+Biome=8
+Eco_Region=Western short grasslands
+No_Data_Value=-999.0
+Delimiter=;
+

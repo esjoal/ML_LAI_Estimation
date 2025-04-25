@@ -1,0 +1,27 @@
+GBOV_Product=RM7
+Raw_Data_Investigators=Courtney Meier_cmeier@battelleecology.org
+Raw_Data_Affiliations=Battelle
+Raw_Data_Contact=cmeier@battelleecology.org
+GBOV_EMAIL=support-copernicus-gbov@acri-st.fr
+Site_Name=Moab
+Station_Name=MOAB_003
+Site_Description==== Not available ===
+NetWork_Membership=NEON
+Online_Resources=https://www.neonscience.org/field-sites/field-sites-map/MOAB
+Data_Type=Open Shrublands, RM7
+GBOV_Processing_Version=2.0
+Start_Date=2022-05-03
+End_Date=2022-05-03
+Start_Time=06:38:00[UTC]
+End_Time=06:38:00[UTC]
+Northern_Latitude=38.24836
+Southern_Latitude=38.24836
+Eastern_Longitude=-109.38831
+Western_Longitude=-109.38831
+IGBP_Class=7, Open Shrublands
+Land_Cover_Class=120
+Biome=13
+Eco_Region=Colorado Plateau shrublands
+No_Data_Value=-999.0
+Delimiter=;
+

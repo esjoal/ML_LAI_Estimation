@@ -1,0 +1,27 @@
+GBOV_Product=RM7
+Raw_Data_Investigators=Courtney Meier_cmeier@battelleecology.org
+Raw_Data_Affiliations=Battelle
+Raw_Data_Contact=cmeier@battelleecology.org
+GBOV_EMAIL=support-copernicus-gbov@acri-st.fr
+Site_Name=Ordway Swisher Biological Station
+Station_Name=OSBS_073
+Site_Description=Ordway-Swisher Biological Station (OSBS) is located approximately 30 km east of Gainesville (Florida). It is operated by the University of Florida and comprises over 3,700 ha. Ordway-Swisher is dominated by pine and turkey oak (Quercus laevis Walter) vegetation with a grass and forb groundcover. Mean canopy height is approximately 23 meters. The forest is maintained by fire and has a relatively open structure: it is managed with prescribed burns at a frequency of 3-4 years.
+NetWork_Membership=NEON
+Online_Resources=https://www.neonscience.org/field-sites/field-sites-map/BARC
+Data_Type=Evergreen Needleleaf, RM7
+GBOV_Processing_Version=2.0
+Start_Date=2021-09-16
+End_Date=2021-09-16
+Start_Time=14:45:00[UTC]
+End_Time=14:45:00[UTC]
+Northern_Latitude=29.6839
+Southern_Latitude=29.6839
+Eastern_Longitude=-81.9934
+Western_Longitude=-81.9934
+IGBP_Class=1, Evergreen Needleleaf
+Land_Cover_Class=70
+Biome=5
+Eco_Region=Southeastern conifer forests
+No_Data_Value=-999.0
+Delimiter=;
+

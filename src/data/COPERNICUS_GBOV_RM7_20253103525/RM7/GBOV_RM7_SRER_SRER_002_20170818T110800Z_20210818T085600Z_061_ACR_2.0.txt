@@ -1,0 +1,27 @@
+GBOV_Product=RM7
+Raw_Data_Investigators=Courtney Meier_cmeier@battelleecology.org
+Raw_Data_Affiliations=Battelle
+Raw_Data_Contact=cmeier@battelleecology.org
+GBOV_EMAIL=support-copernicus-gbov@acri-st.fr
+Site_Name=Santa Rita
+Station_Name=SRER_002
+Site_Description=SRER is the core terrestrial field site for Domain 14: Desert Southwest and is located in the Santa Rita Experimental Range which encompasses 21,000 hectares of upland Sonoran Desert, approximately 32 km south of Tucson, Arizona.
+NetWork_Membership=NEON
+Online_Resources=http://www.neonscience.org/field-sites/field-sites-map/SRER
+Data_Type=Closed Shrublands, RM7
+GBOV_Processing_Version=2.0
+Start_Date=2017-08-18
+End_Date=2021-08-18
+Start_Time=11:08:00[UTC]
+End_Time=08:56:00[UTC]
+Northern_Latitude=31.91068
+Southern_Latitude=31.91068
+Eastern_Longitude=-110.83549
+Western_Longitude=-110.83549
+IGBP_Class=6, Closed Shrublands
+Land_Cover_Class=120
+Biome=13
+Eco_Region=Desert Southwest
+No_Data_Value=-999.0
+Delimiter=;
+

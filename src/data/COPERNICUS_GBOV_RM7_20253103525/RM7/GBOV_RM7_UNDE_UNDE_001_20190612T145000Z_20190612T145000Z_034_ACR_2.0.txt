@@ -1,0 +1,27 @@
+GBOV_Product=RM7
+Raw_Data_Investigators=Courtney Meier_cmeier@battelleecology.org
+Raw_Data_Affiliations=Battelle
+Raw_Data_Contact=cmeier@battelleecology.org
+GBOV_EMAIL=support-copernicus-gbov@acri-st.fr
+Site_Name=Underc
+Station_Name=UNDE_001
+Site_Description=The site UNDERC (University of Notre Dame Environmental Research Center East) is located at the border between Northern Wisconsin and Michigans Upper Peninsula. The UNDERC property comprises approx. 3000 ha. Region-wide logging for pine into the mid-1900s led to clear cutting of most forested areas on the property. Since the 1970s, the site has been minimally managed and thus represents a regenerating forest that is characteristic of the region.
+NetWork_Membership=NEON
+Online_Resources=https://www.neonscience.org/field-sites/field-sites-map/UNDE
+Data_Type=Mixed Forest, RM7
+GBOV_Processing_Version=2.0
+Start_Date=2019-06-12
+End_Date=2019-06-12
+Start_Time=14:50:00[UTC]
+End_Time=14:50:00[UTC]
+Northern_Latitude=46.233959
+Southern_Latitude=46.233959
+Eastern_Longitude=-89.53751
+Western_Longitude=-89.53751
+IGBP_Class=5, Mixed Forest
+Land_Cover_Class=60
+Biome=4
+Eco_Region=Western Great Lakes forests
+No_Data_Value=-999.0
+Delimiter=;
+

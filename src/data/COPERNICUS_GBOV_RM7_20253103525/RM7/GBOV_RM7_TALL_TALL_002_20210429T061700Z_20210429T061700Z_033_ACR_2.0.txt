@@ -1,0 +1,27 @@
+GBOV_Product=RM7
+Raw_Data_Investigators=Courtney Meier_cmeier@battelleecology.org
+Raw_Data_Affiliations=Battelle
+Raw_Data_Contact=cmeier@battelleecology.org
+GBOV_EMAIL=support-copernicus-gbov@acri-st.fr
+Site_Name=Talladega National Forest
+Station_Name=TALL_002
+Site_Description=The site Talladega National Forest (Talladega) covers 5300 hectares within the larger Oakmulgee District of the Talladega National Forest (475,000 hectares). It is located approx. 30 km south-east of Tuscaloosa in west-central Alabama. Steep ridges to rolling hills fading to hardwood bottoms make up the diversity of forest conditions found on Oakmulgee. While known for its longleaf forests, over 40% of Oakmulgee is covered with mixture hardwoods and wetlands.
+NetWork_Membership=NEON
+Online_Resources=https://www.neonscience.org/field-sites/field-sites-map/TALL
+Data_Type=Evergreen Needleleaf, RM7
+GBOV_Processing_Version=2.0
+Start_Date=2021-04-29
+End_Date=2021-04-29
+Start_Time=06:17:00[UTC]
+End_Time=06:17:00[UTC]
+Northern_Latitude=32.9504585266113
+Southern_Latitude=32.9504585266113
+Eastern_Longitude=-87.3932723999023
+Western_Longitude=-87.3932723999023
+IGBP_Class=1, Evergreen Needleleaf
+Land_Cover_Class=70
+Biome=4
+Eco_Region=Southeastern mixed forests
+No_Data_Value=-999.0
+Delimiter=;
+

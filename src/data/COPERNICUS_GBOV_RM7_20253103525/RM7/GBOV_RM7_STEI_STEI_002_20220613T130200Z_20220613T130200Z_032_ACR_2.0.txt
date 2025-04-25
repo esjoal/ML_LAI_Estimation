@@ -1,0 +1,27 @@
+GBOV_Product=RM7
+Raw_Data_Investigators=Courtney Meier_cmeier@battelleecology.org
+Raw_Data_Affiliations=Battelle
+Raw_Data_Contact=cmeier@battelleecology.org
+GBOV_EMAIL=support-copernicus-gbov@acri-st.fr
+Site_Name=Steigerwaldt Land Services
+Station_Name=STEI_002
+Site_Description=The site Steigerwald is located approx. 15 km northeast of Tomahawk, Wisconsin.  The Steigerwaldt tower site is managed for timber production and recreation. It is a young, even-aged stand, with aspen (Populus tremuloides), red maple (Acer rubrum), and balsam fir (Abies balsamea) among the most abundant tree species. The stand was cut in 2005, with some scattered oak and hemlock left for wildlife food and roost.
+NetWork_Membership=NEON
+Online_Resources=https://www.neonscience.org/field-sites/field-sites-map/STEI
+Data_Type=Deciduous Broadleaf, RM7
+GBOV_Processing_Version=2.0
+Start_Date=2022-06-13
+End_Date=2022-06-13
+Start_Time=13:02:00[UTC]
+End_Time=13:02:00[UTC]
+Northern_Latitude=45.5089416503906
+Southern_Latitude=45.5089416503906
+Eastern_Longitude=-89.5863723754883
+Western_Longitude=-89.5863723754883
+IGBP_Class=4, Deciduous Broadleaf
+Land_Cover_Class=60
+Biome=4
+Eco_Region=Western Great Lakes forests
+No_Data_Value=-999.0
+Delimiter=;
+

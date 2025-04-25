@@ -1,0 +1,27 @@
+GBOV_Product=RM7
+Raw_Data_Investigators=Courtney Meier_cmeier@battelleecology.org
+Raw_Data_Affiliations=Battelle
+Raw_Data_Contact=cmeier@battelleecology.org
+GBOV_EMAIL=support-copernicus-gbov@acri-st.fr
+Site_Name=North Sterling
+Station_Name=STER_008
+Site_Description=The site North Sterling, located ca. 20 km SE of Sterling in Northeastern Colorado, is characterized by flat terrain and represents an agronomic site within urban and formerly urban areas. The site is owned privately and managed by a local farmer; it is subject to the shifting agronomic and economic needs of the area. This site provides a baseline understanding of the regional effects of climate change.
+NetWork_Membership=NEON
+Online_Resources=https://www.neonscience.org/field-sites/field-sites-map/STER
+Data_Type=Grasslands, RM7
+GBOV_Processing_Version=2.0
+Start_Date=2017-04-05
+End_Date=2022-09-08
+Start_Time=00:00:00[UTC]
+End_Time=12:01:00[UTC]
+Northern_Latitude=40.461952
+Southern_Latitude=40.461952
+Eastern_Longitude=-103.02934
+Western_Longitude=-103.02934
+IGBP_Class=10, Grasslands
+Land_Cover_Class=11
+Biome=8
+Eco_Region=Western short grasslands
+No_Data_Value=-999.0
+Delimiter=;
+

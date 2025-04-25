@@ -1,0 +1,27 @@
+GBOV_Product=RM7
+Raw_Data_Investigators=Courtney Meier_cmeier@battelleecology.org
+Raw_Data_Affiliations=Battelle
+Raw_Data_Contact=cmeier@battelleecology.org
+GBOV_EMAIL=support-copernicus-gbov@acri-st.fr
+Site_Name=Dead Lake
+Station_Name=DELA_020
+Site_Description=The Dead Lake site is just northeast of Demopolis, AL near the Black Warrior River. The site is in Major Land Resource Area (MLRA) 133A–Southern Coastal Plains, near the boundary of MLRA 135A–Alabama and Mississippi Blackland Prairie. Surrounded by woody wetlands and evergreen forest, DELA sits on the flood plain steps and stream terraces of an inside meander of the Black Warrior River in Greene Co., AL.
+NetWork_Membership=NEON
+Online_Resources=http://www.neonscience.org/field-sites/field-sites-map/DELA
+Data_Type=Deciduous Broadleaf, RM7
+GBOV_Processing_Version=2.0
+Start_Date=2019-05-09
+End_Date=2019-05-09
+Start_Time=05:40:00[UTC]
+End_Time=05:40:00[UTC]
+Northern_Latitude=32.54172
+Southern_Latitude=32.54172
+Eastern_Longitude=-87.80389
+Western_Longitude=-87.80389
+IGBP_Class=4, Deciduous Broadleaf
+Land_Cover_Class=60
+Biome=4
+Eco_Region=Atlantic Neotropical
+No_Data_Value=-999.0
+Delimiter=;
+

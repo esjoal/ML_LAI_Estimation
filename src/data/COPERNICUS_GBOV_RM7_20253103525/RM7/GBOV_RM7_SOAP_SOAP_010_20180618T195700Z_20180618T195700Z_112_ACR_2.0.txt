@@ -1,0 +1,27 @@
+GBOV_Product=RM7
+Raw_Data_Investigators=_
+Raw_Data_Affiliations=
+Raw_Data_Contact=
+GBOV_EMAIL=support-copernicus-gbov@acri-st.fr
+Site_Name=Soaproot Saddle
+Station_Name=SOAP_010
+Site_Description=null
+NetWork_Membership=NEON
+Online_Resources=https://www.google.com/
+Data_Type=Evergreen Needleleaf Forest, RM7
+GBOV_Processing_Version=2.0
+Start_Date=2018-06-18
+End_Date=2018-06-18
+Start_Time=19:57:00[UTC]
+End_Time=19:57:00[UTC]
+Northern_Latitude=37.03337
+Southern_Latitude=37.03337
+Eastern_Longitude=-119.26219
+Western_Longitude=-119.26219
+IGBP_Class=1, Evergreen Needleleaf Forest
+Land_Cover_Class=0
+Biome=0
+Eco_Region=
+No_Data_Value=-999.0
+Delimiter=;
+

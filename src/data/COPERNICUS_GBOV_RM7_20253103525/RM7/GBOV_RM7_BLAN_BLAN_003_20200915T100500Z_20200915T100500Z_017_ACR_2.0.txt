@@ -1,0 +1,27 @@
+GBOV_Product=RM7
+Raw_Data_Investigators=Courtney Meier_cmeier@battelleecology.org
+Raw_Data_Affiliations=Battelle
+Raw_Data_Contact=cmeier@battelleecology.org
+GBOV_EMAIL=support-copernicus-gbov@acri-st.fr
+Site_Name=Blandy Experimental Farm
+Station_Name=BLAN_003
+Site_Description=The Blandy Experimental Farm is located about 15 km SE of Winchester, Virginia (US). It contains several land use types typically found in rural-suburban landscapes. The Blandy site is dominated by fallow scrubland. Goldenrod (Solidago altissima) and hay crops are two of the dominant vegetation types. This site provides a baseline understanding of the regional effects of land use.
+NetWork_Membership=NEON
+Online_Resources=https://www.neonscience.org/field-sites/field-sites-map/BLAN
+Data_Type=Deciduous Broadleaf, RM7
+GBOV_Processing_Version=2.0
+Start_Date=2020-09-15
+End_Date=2020-09-15
+Start_Time=10:05:00[UTC]
+End_Time=10:05:00[UTC]
+Northern_Latitude=39.0602607727051
+Southern_Latitude=39.0602607727051
+Eastern_Longitude=-78.0716400146484
+Western_Longitude=-78.0716400146484
+IGBP_Class=4, Deciduous Broadleaf
+Land_Cover_Class=130
+Biome=4
+Eco_Region=Appalachian-Blue Ridge forests
+No_Data_Value=-999.0
+Delimiter=;
+

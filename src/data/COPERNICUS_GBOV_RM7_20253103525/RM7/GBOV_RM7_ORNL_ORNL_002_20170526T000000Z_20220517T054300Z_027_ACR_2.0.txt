@@ -1,0 +1,27 @@
+GBOV_Product=RM7
+Raw_Data_Investigators=Courtney Meier_cmeier@battelleecology.org
+Raw_Data_Affiliations=Battelle
+Raw_Data_Contact=cmeier@battelleecology.org
+GBOV_EMAIL=support-copernicus-gbov@acri-st.fr
+Site_Name=Oak Ridge
+Station_Name=ORNL_002
+Site_Description=The site Oak Ridge is part of the Oak Ridge National Laboratory (ORNL) Reservation owned by the U.S. Department of Energy and located in Roane County, Tennessee, about 30 km W of Knoxville. The NEON tower site is situated within the Walker Branch Watershed, a 100 ha area that has served as the site for long-term environmental studies by ORNL, NOAA, and many visiting university researchers. The area around the tower is dominated by second-growth deciduous forest with canopy height of approx. 28 m.
+NetWork_Membership=NEON
+Online_Resources=https://www.neonscience.org/field-sites/field-sites-map/ORNL
+Data_Type=Mixed Forest, RM7
+GBOV_Processing_Version=2.0
+Start_Date=2017-05-26
+End_Date=2022-05-17
+Start_Time=00:00:00[UTC]
+End_Time=05:43:00[UTC]
+Northern_Latitude=35.9641189575195
+Southern_Latitude=35.9641189575195
+Eastern_Longitude=-84.282600402832
+Western_Longitude=-84.282600402832
+IGBP_Class=5, Mixed Forest
+Land_Cover_Class=60
+Biome=4
+Eco_Region=Appalachian-Blue Ridge forests
+No_Data_Value=-999.0
+Delimiter=;
+
