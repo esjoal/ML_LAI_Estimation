@@ -2,6 +2,11 @@
 
 El proyecto aborda un problema de **regresión supervisada** para predecir el **Índice de Área Foliar (LAI)** de la vegetación utilizando datos de reflectancia espectral del satélite **Sentinel-2**. El objetivo es construir un modelo de machine learning que relacione las bandas espectrales con mediciones in situ de LAI, obtenidas de la red **NEON**, para estimar el LAI a gran escala espacial y temporal.
 
+## Autor
+
+- **José Estévez** - [@esjoal](https://github.com/esjoal)
+
+
 ## Dataset de Satelite:
 
 El dataset de satélite contiene datos de reflectancia espectral obtenidos por el satélite Sentinel-2. Los datos son descargados de la plataforma Google Earth Engine con el script `collect_dataset_sat.ipynb` en Google Colab <a target="_blank" href="https://colab.research.google.com/github/esjoal/S2_ML_LAI_Estimation/blob/main/src/result_notebooks/collect_dataset_sat.ipynb">
@@ -106,4 +111,4 @@ El modelo de regresión lineal es capaz de predecir el LAI con un desempeño ace
 
 ## Licencia
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+Este proyecto está bajo la licencia GNU GENERAL PUBLIC LICENSE. Consulta el archivo `LICENSE` para más detalles.
