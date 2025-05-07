@@ -1,4 +1,4 @@
-# ML_LAI_Estimation
+# ML model for LAI estimation using satellite images
 
 El proyecto aborda un problema de **regresión supervisada** para predecir el **Índice de Área Foliar (LAI)** de la vegetación utilizando datos de reflectancia espectral del satélite **Sentinel-2**. El objetivo es construir un modelo de machine learning que relacione las bandas espectrales con mediciones in situ de LAI, obtenidas de la red **NEON**, para estimar el LAI a gran escala espacial y temporal.
 
