@@ -1,0 +1,86 @@
+'''df_list = []
+
+# Itera sobre cada coordenada
+for site, lat, lon in coordenadas:
+    # Filtra el DataFrame de df_insitu y df según el 'Site'
+    df_insitu_site = df_insitu[df_insitu['Site'] == site]
+    df_sat_site = df[df['Site_sat'] == site]
+    
+
+    df_insitu_site['date_insitu'] = pd.to_datetime(df_insitu_site['TIME_IS']).dt.date
+    df_sat_site['date_sat'] = pd.to_datetime(df_sat_site['time']).dt.date
+
+
+    # Ordenar df_insitu_site por 'TIME_IS' antes del merge
+    df_insitu_site = df_insitu_site.sort_values(by=['TIME_IS'])
+
+    # Realizar el merge para obtener solo las filas que coinciden dentro de 7 días
+    df_cross_site = pd.merge_asof(df_sat_site, df_insitu_site, left_on='time', right_on='TIME_IS', 
+                                  tolerance=pd.Timedelta('7D'), direction='nearest')
+
+    # Añadir una columna 'delta' con la diferencia en tiempo entre el satélite y las mediciones in situ
+    df_cross_site['delta'] = abs(df_cross_site['time'] - df_cross_site['TIME_IS'])
+
+    # Añadir las fechas separadas de 'date_sat' y 'date_insitu'
+    df_cross_site['date_sat'] = df_cross_site['time'].dt.date
+    df_cross_site['date_insitu'] = df_cross_site['TIME_IS'].dt.date
+
+    # Ordenar y eliminar duplicados por 'date_insitu'
+    df_cross_site = df_cross_site.sort_values(by=['date_insitu', 'delta']).drop_duplicates(subset='date_insitu', keep='first')        
+
+    # Ordenar y eliminar duplicados por 'date_sat'
+    df_cross_site = df_cross_site.sort_values(by=['date_sat', 'delta']).drop_duplicates(subset='date_sat', keep='first')
+
+    df_list.append(df_cross_site)
+
+
+# Combinar todos los DataFrames en uno solo
+df_cross = pd.concat(df_list, axis=0, ignore_index=True)
+
+# Mostrar el DataFrame final
+df_cross'''
+
+
+
+df_list = []
+
+# Itera sobre cada coordenada
+for site, lat, lon in coords:
+    # Filtra el DataFrame de df_insitu y df según el 'Site'
+    df_insitu_site = df_insitu[df_insitu['Site'] == site].copy()
+    df_sat_site = df_sat[df_sat['Site_sat'] == site].copy()
+    
+
+    df_insitu_site['date_insitu'] = pd.to_datetime(df_insitu_site['TIME_IS']).dt.date
+    df_sat_site['date_sat'] = pd.to_datetime(df_sat_site['time']).dt.date
+
+
+    # Ordenar df_insitu_site por 'TIME_IS' antes del merge
+    df_insitu_site = df_insitu_site.sort_values(by=['TIME_IS'])
+
+    # Realizar el merge para obtener solo las filas que coinciden dentro de 5 días
+    df_cross_site = 
+(df_insitu_site, df_sat_site, left_on='TIME_IS', right_on='time', 
+                                  tolerance=pd.Timedelta('5D'), direction='nearest')
+
+    # Añadir una columna 'delta' con la diferencia en tiempo entre el satélite y las mediciones in situ
+    df_cross_site['delta'] = abs(df_cross_site['time'] - df_cross_site['TIME_IS'])
+
+    # Añadir las fechas separadas de 'date_sat' y 'date_insitu'
+    df_cross_site['date_sat'] = df_cross_site['time'].dt.date
+    df_cross_site['date_insitu'] = df_cross_site['TIME_IS'].dt.date
+
+    # Ordenar y eliminar duplicados por 'date_insitu'
+    df_cross_site = df_cross_site.sort_values(by=['date_insitu', 'delta']).drop_duplicates(subset='date_insitu', keep='first')        
+
+    # Ordenar y eliminar duplicados por 'date_sat'
+    df_cross_site = df_cross_site.sort_values(by=['date_sat', 'delta']).drop_duplicates(subset='date_sat', keep='first')
+
+    df_list.append(df_cross_site)
+
+
+# Combinar todos los DataFrames en uno solo
+df_cross = pd.concat(df_list, axis=0, ignore_index=True)
+
+# Mostrar el DataFrame final
+df_cross
