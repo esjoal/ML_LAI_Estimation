@@ -9,6 +9,12 @@ El proyecto aborda un problema de **regresión supervisada** para predecir el **
 
 - **José Estévez** - [@esjoal](https://github.com/esjoal)
 
+## Area geográfica y período de tiempo  
+
+Los datos utilizados corresponden a medidas de satélite y medidas de campo en diferentes ubicaciones de Estados Unidos. Ver coordenadas en el archivo:  
+'src/utils/variables.py'  
+Para el dataset de train y validación las fechas van desde 2017-enero hasta 2022-diciembre.  
+Para el dataset de test las fechas van desde 2023-enero hasta 2023-diciembre.
 
 ## Dataset de Satelite:
 
