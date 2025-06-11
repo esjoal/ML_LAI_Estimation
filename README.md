@@ -8,6 +8,7 @@ El proyecto aborda un problema de **regresión supervisada** para predecir el **
 ## Autor
 
 - **José Estévez** - [@esjoal](https://github.com/esjoal)
+- [LinkedIn](https://www.linkedin.com/in/estevez-jose/)
 
 ## Area geográfica y período de tiempo  
 
